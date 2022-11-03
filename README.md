@@ -16,7 +16,7 @@ pip install rich
 
 pip install mechanize
 
-git clone https://github.com/wayle77/free
+git clone https://github.com/wayle77/domino
 
 cd free
 
