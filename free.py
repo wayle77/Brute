@@ -103,13 +103,13 @@ def licensi():#line:42
     os .system ('clear')
     kontol()
     print (f"""
-{U}[{P}1{U}]{P} Beli Lisensi
+{U}[{P}1{U}]{P} Minta Lisensi
 {U}[{P}2{U}]{P} Masukan Lisensi
 {U}[{P}3{U}]{P} Keluar {U}[{H}Exit{U}]{H}
 """)#line:49
     OOO00O0OOO00OO00O =input (f"{H}[{P}?{H}]{P} ===> Pilih :{K} ")#line:50
     if OOO00O0OOO00OO00O in ['1','01']:#line:51
-      print (f"{H}[{P}!{H}]{P} Anda Akan Diarahkan Ke Whatsapp...");time .sleep (3 );os .system ('xdg-open https://wa.me/6281234785443?text=Bang+Beli+Lisensi+nya+dong.......???????');exit ()#line:52
+      print (f"{H}[{P}!{H}]{P} Anda Akan Diarahkan Ke Whatsapp...");time .sleep (3 );os .system ('xdg-open https://wa.me/6281234785443?text=Bang+Minta+Lisensi+nya+dong.......???????');exit ()#line:52
     elif OOO00O0OOO00OO00O in ['2','02']:#line:53
       O000O000OOO000OOO =input (f"{H}[{P}?{H}]{P} Api Key :{K} ")#line:54
       if len (O000O000OOO000OOO )==0 :#line:55
