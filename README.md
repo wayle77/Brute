@@ -1,4 +1,4 @@
-# free.py
+#JANGAN Looo..reccoder yaa kontol
 Install bahannya dulu.....
 pkg install python
 
