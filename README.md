@@ -16,8 +16,8 @@ pip install rich
 
 pip install mechanize
 
-git clone https://github.com/wayle77/domino
+git clone https://github.com/wayle77/Brute
 
-cd free
+cd Brute
 
-python free.py
+python Brute.py
