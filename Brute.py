@@ -103,7 +103,7 @@ def licensi():#line:42
     os .system ('clear')
     kontol()
     print (f"""
-{U}[{P}1{U}]{P} Minta Lisensi
+{U}[{P}1{U}]{P} Lisensi gratis
 {U}[{P}2{U}]{P} Masukan Lisensi
 {U}[{P}3{U}]{P} Keluar {U}[{H}Exit{U}]{H}
 """)#line:49
